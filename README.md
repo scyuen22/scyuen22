@@ -1,5 +1,5 @@
 - Hi, I’m Sherwin.
-- I am based in Abbotsford, BC, Canada.
+- I am based in Canada.
 - I am a recent graduate in Data Analytics.
 - You can contact me at sherwin.yuen.02@gmail.com
 - Languages/Software: Python, R, SQL, Tableau, Power BI, Excel, Google Sheets, Google Colab, Jupyter Notebook
