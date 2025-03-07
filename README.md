@@ -2,7 +2,7 @@
 - I am based in Canada.
 - I am a recent graduate in Data Analytics.
 - You can contact me at sherwin.yuen.02@gmail.com
-- Languages/Software: Python, R, SQL, Tableau, Power BI, Excel, Google Sheets, Google Colab, Jupyter Notebook
+- Languages/Software: Python, R, SQL, Tableau, Excel, Google Sheets, Google Colab, Jupyter Notebook
 
 
 <!---
